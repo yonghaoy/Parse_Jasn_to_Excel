@@ -1,0 +1,4 @@
+This is a simple text mining tool. 
+It can process a training csv file. Process all the text and get the statistic information of each word.
+It need jexcelapi which can download here: http://jexcelapi.sourceforge.net/
+For now the tool just can process simple binary attitude "positive" and "neagative". It's not hard to expand the bound.
