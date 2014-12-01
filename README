@@ -2,7 +2,7 @@ This is a simple text mining tool.
 
 The program is for UNC's INLS 613's final prject.
 
-It can parse a jason file of review to excel.
+It can parse a json file of review to excel.
 
 It need jexcelapi which can download here: http://jexcelapi.sourceforge.net/
 
